@@ -17,18 +17,17 @@ Steps:
 
 
 Problem Statement:
-The supply chain environment is becoming increasingly complex and competitive. 
-Businesses face the challenge of managing fluctuating demand, reducing costs, and maintaining efficient operations while staying agile. 
-Many organizations struggle with outdated, manual processes that are reactive and lack the ability to leverage data-driven insights.
-Current methods fail to accurately predict demand or optimize procurement, leading to stockouts, excess inventory, and inefficient purchase orders. 
+- The supply chain environment is becoming increasingly complex and competitive. 
+- Businesses face the challenge of managing fluctuating demand, reducing costs, and maintaining efficient operations while staying agile. 
+- Many organizations struggle with outdated, manual processes that are reactive and lack the ability to leverage data-driven insights.
+- Current methods fail to accurately predict demand or optimize procurement, leading to stockouts, excess inventory, and inefficient purchase orders. 
 
 Solution:
-Our comprehensive solution uses machine learning predictive models for demand forecasting, enabling dynamic procurement adjustments and automating purchase orders to improve efficiency, and provide actionable recommendations to improve supply chain performance.
-Our ML solution can target a number of industries such as financial services, manufacturing, energy and utilities, retail, real estate, and technology.
-
+- Our comprehensive solution uses machine learning predictive models for demand forecasting, enabling dynamic procurement adjustments and automating purchase orders to improve efficiency, and provide actionable recommendations to improve supply chain performance.
+- Our ML solution can target a number of industries such as financial services, manufacturing, energy and utilities, retail, real estate, and technology.
 
 Our USP and Benefits:
-This machine learning-based supply chain optimization solution has the ability to provide accurate, real-time demand forecasts, enabling dynamic procurement adjustments and automating purchase orders. This leads to:
+- This machine learning-based supply chain optimization solution has the ability to provide accurate, real-time demand forecasts, enabling dynamic procurement adjustments and automating purchase orders. This leads to:
 
 - Increased Accuracy: Minimizes stockouts and overstocking with continuous improvement.
 - Real-Time Adaptability: Adjusts procurement in response to market changes.
@@ -39,7 +38,7 @@ This machine learning-based supply chain optimization solution has the ability t
 
 
 Why is our model important?:
-This machine learning-based demand forecasting model is important because it addresses key challenges in supply chain management by:
+- This machine learning-based demand forecasting model is important because it addresses key challenges in supply chain management by:
 
 - Improving Forecast Accuracy: Predicting demand more precisely reduces excess inventory, stockouts, and waste.
 - Enhancing Efficiency: Automating procurement decisions and purchase orders eliminates manual tasks, speeding up processes and reducing human error.
