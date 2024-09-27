@@ -1,6 +1,5 @@
 # XGBoost-predictive-model
 
-"""
 IBM TechXchange watsonx Hackathon
 
 How can generative AI technology improve productivity of an important everyday activity?
@@ -31,23 +30,22 @@ Our ML solution can target a number of industries such as financial services, ma
 Our USP and Benefits:
 This machine learning-based supply chain optimization solution has the ability to provide accurate, real-time demand forecasts, enabling dynamic procurement adjustments and automating purchase orders. This leads to:
 
-Increased Accuracy: Minimizes stockouts and overstocking with continuous improvement.
-Real-Time Adaptability: Adjusts procurement in response to market changes.
-Procurement Automation: Streamlines processes, reducing manual effort and errors.
-Cost Efficiency: Optimizes inventory, lowering costs.
-Data-Driven Insights: Empowers proactive, informed decision-making.
-This solution uniquely combines predictive intelligence and automation for superior supply chain efficiency.
+- Increased Accuracy: Minimizes stockouts and overstocking with continuous improvement.
+- Real-Time Adaptability: Adjusts procurement in response to market changes.
+- Procurement Automation: Streamlines processes, reducing manual effort and errors.
+- Cost Efficiency: Optimizes inventory, lowering costs.
+- Data-Driven Insights: Empowers proactive, informed decision-making.
+- This solution uniquely combines predictive intelligence and automation for superior supply chain efficiency.
 
 
 Why is our model important?:
 This machine learning-based demand forecasting model is important because it addresses key challenges in supply chain management by:
 
-Improving Forecast Accuracy: Predicting demand more precisely reduces excess inventory, stockouts, and waste.
-Enhancing Efficiency: Automating procurement decisions and purchase orders eliminates manual tasks, speeding up processes and reducing human error.
-Boosting Agility: The model adapts to market shifts and disruptions in real time, enabling businesses to respond quickly and stay competitive.
-Cost Reduction: By optimizing inventory levels and procurement, it helps cut storage, handling, and operational costs.
-Informed Decision-Making: It provides data-driven insights, helping businesses anticipate trends and make proactive decisions to improve supply chain resilience and performance.
+- Improving Forecast Accuracy: Predicting demand more precisely reduces excess inventory, stockouts, and waste.
+- Enhancing Efficiency: Automating procurement decisions and purchase orders eliminates manual tasks, speeding up processes and reducing human error.
+- Boosting Agility: The model adapts to market shifts and disruptions in real time, enabling businesses to respond quickly and stay competitive.
+- Cost Reduction: By optimizing inventory levels and procurement, it helps cut storage, handling, and operational costs.
+- Informed Decision-Making: It provides data-driven insights, helping businesses anticipate trends and make proactive decisions to improve supply chain resilience and performance.
 
 
 In short, this model empowers businesses to optimize their supply chain with precision, agility, and efficiency, driving both cost savings and operational excellence.
-"""
